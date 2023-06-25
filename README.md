@@ -8,7 +8,11 @@ The :point_right:**individual feedback**:cloud will give me valuable tips on how
 
 :tada:**Let the adventure begin!!!**:tada:
 
-### Subtask 2: Adding code to repository.
+### :arrow_upper_right:Subtask 2: Adding code to repository.
 
 In this subtask, I was made my first commit to the project repository using GitHub Desktop:rocket:.
 
+###  :pencil:Subtask 3: Get ISTQB Test "PURPLE".
+
+My score in this test was :eight:/:one::four:
+I just need to consolidate my knowledge.
