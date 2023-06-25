@@ -17,4 +17,3 @@ In this subtask, I was made my first commit to the project repository using GitH
 My score in this test was 
 	
 ## 8/14. 
-I just need to consolidate my knowledge.
