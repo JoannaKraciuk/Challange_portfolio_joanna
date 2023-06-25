@@ -15,3 +15,4 @@ In this subtask, I was made my first commit to the project repository using GitH
 ###  :pencil:Subtask 3: Get ISTQB Test "PURPLE".
 
 My score in this test was ## 8/14.
+:)
