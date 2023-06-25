@@ -8,3 +8,7 @@ The :point_right:**individual feedback**:cloud will give me valuable tips on how
 
 :tada:**Let the adventure begin!!!**:tada:
 
+### Subtask 2: Adding code to repository.
+
+In this subtask, I was made my first commit to the project repository using GitHub Desktop:rocket:.
+
