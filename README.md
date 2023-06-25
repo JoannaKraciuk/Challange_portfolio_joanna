@@ -1,4 +1,4 @@
-# :dart:Challange portfolio Joanna Kraciuk:rocket:
+# :dart:Challange portfolio Joanna Kraciuk🎯:
 ##  :pushpin:Task 1: Software Configuration
 ### :green_book:Subtask 1: Why did I choose to participate in the  challenge portfolio?
 
