@@ -19,6 +19,9 @@ My score in this test was ## 8/14.
 ## :question:Recruitment questions:question:
 
 ### 1. Co to jest Git?
+
+![Screenshot](
+
 **Git**- to rozproszony system kontroli wersji typu open source. Służy do zarządzania historią kodu źródłowego. Jego funkcjonalność ma kilka podłoży. Między innymi sprawdza się tak dobrze, ponieważ:
 
 :arrow_forward: pozwala na jednoczesną pracę na tym samym kodzie przez kilka osób, 
