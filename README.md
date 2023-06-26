@@ -22,6 +22,9 @@ My score in this test was ## 8/14.
 **Git**- to rozproszony system kontroli wersji. Służy do zarządzania historią kodu źródłowego. Jego funkcjonalność ma kilka podłoży. Między innymi sprawdza się tak dobrze, ponieważ:
 
 :arrow_forward: pozwala na jednoczesną pracę na tym samym kodzie przez kilka osób, 
+
 :arrow_forward: umożliwia transferowanie i łączenie zmian z różnych branchy w jednym projekcie,
+
 :arrow_forward: pozwala na pracę offline we własnym repozytorium,
+
 :arrow_forward: jest szybki i wydajny.
