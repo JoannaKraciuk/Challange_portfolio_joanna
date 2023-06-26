@@ -19,7 +19,7 @@ In this subtask, I was made my first commit to the project repository using GitH
 ###  :white_check_mark:Subtask 4: Get ISTQB Test "PURPLE".
 
 
-[Link to test](http://getistqb.com/quiz-purpurowy/)
+:arrow_right:[Link to test](http://getistqb.com/quiz-purpurowy/)
 
 My score in this test was **8/14.**
 
