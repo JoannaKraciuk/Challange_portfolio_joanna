@@ -20,7 +20,7 @@ My score in this test was ## 8/14.
 
 ### 1. Co to jest Git?
 
-![Screenshot](
+![Screenshot](https://github.com/JoannaKraciuk/Challange_portfolio_joanna/tree/8afd559b56b9fc19ed9773a47269a8b39faa37ce/photos)
 
 **Git**- to rozproszony system kontroli wersji typu open source. Służy do zarządzania historią kodu źródłowego. Jego funkcjonalność ma kilka podłoży. Między innymi sprawdza się tak dobrze, ponieważ:
 
