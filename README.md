@@ -19,7 +19,7 @@ My score in this test was ## 8/14.
 ## :question:Recruitment questions:question:
 
 ### 1. Co to jest Git?
-**Git**- to rozproszony system kontroli wersji. Służy do zarządzania historią kodu źródłowego. Jego funkcjonalność ma kilka podłoży. Między innymi sprawdza się tak dobrze, ponieważ:
+**Git**- to rozproszony system kontroli wersji typu open source. Służy do zarządzania historią kodu źródłowego. Jego funkcjonalność ma kilka podłoży. Między innymi sprawdza się tak dobrze, ponieważ:
 
 :arrow_forward: pozwala na jednoczesną pracę na tym samym kodzie przez kilka osób, 
 
@@ -28,3 +28,10 @@ My score in this test was ## 8/14.
 :arrow_forward: pozwala na pracę offline we własnym repozytorium,
 
 :arrow_forward: jest szybki i wydajny.
+
+### 2. Co to jest repozytorium?
+**Repozytorium** - to rodzaj miejsca do przechowywania lub archiwum, w którym Git zapisuje wszystkie wersje projektu z każdą wprowadzoną zmianą. Firma może używać repozytorium do przechowywania plików kodu, ale także obrazów, dokumentacji lub stron internetowych.
+
+### 3. Do czego służy plik gitignore?
+
+**Plik .gitignore** - służy do określenie plików, które mają być ignorowane przez repozytorium git. Umieszczamy w nim np. hasła czy poufne dane używane w projekcie, abo nie wyciekły do GitHuba.
