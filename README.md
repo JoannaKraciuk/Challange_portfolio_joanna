@@ -12,7 +12,7 @@ The :point_right:**individual feedback**:cloud will give me valuable tips on how
 
 In this subtask, I was made my first commit to the project repository using GitHub Desktop:rocket:.
 
-###  :white_check_mark:Subtask 3: Get ISTQB Test "PURPLE".
+###  :white_check_mark:Subtask 4: Get ISTQB Test "PURPLE".
 
 My score in this test was **8/14.**
 
