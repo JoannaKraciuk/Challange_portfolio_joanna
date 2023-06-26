@@ -18,7 +18,7 @@ My score in this test was ## 8/14.
 
 ## :question:Recruitment questions:question:
 
-### Co to jest Git?
+### 1.Co to jest Git?
 **Git**- to rozproszony system kontroli wersji. Służy do zarządzania historią kodu źródłowego. Jego funkcjonalność ma kilka podłoży. Między innymi sprawdza się tak dobrze, ponieważ:
 
 :arrow_forward: pozwala na jednoczesną pracę na tym samym kodzie przez kilka osób, 
