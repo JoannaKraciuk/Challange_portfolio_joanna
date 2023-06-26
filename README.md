@@ -18,7 +18,7 @@ My score in this test was **8/14.**
 
 ## :question:Recruitment questions:question:
 
-### 1. Co to jest Git?
+### :ballot_box_with_check:1. Co to jest Git?
 
 ![Screenshot](https://github.com/JoannaKraciuk/Challange_portfolio_joanna/blob/8afd559b56b9fc19ed9773a47269a8b39faa37ce/photos/Git-Logo.png)
 
@@ -32,9 +32,9 @@ My score in this test was **8/14.**
 
 :arrow_forward: jest szybki i wydajny.
 
-### 2. Co to jest repozytorium?
+### :ballot_box_with_check:2. Co to jest repozytorium?
 **Repozytorium** - to rodzaj miejsca do przechowywania lub archiwum, w którym Git zapisuje wszystkie wersje projektu z każdą wprowadzoną zmianą. Firma może używać repozytorium do przechowywania plików kodu, ale także obrazów, dokumentacji lub stron internetowych.
 
-### 3. Do czego służy plik gitignore?
+### :ballot_box_with_check:3. Do czego służy plik gitignore?
 
 **Plik .gitignore** - służy do określenia plików, które mają być ignorowane przez repozytorium git. Umieszczamy w nim np. hasła czy poufne dane używane w projekcie, aby nie wyciekły do GitHuba.
