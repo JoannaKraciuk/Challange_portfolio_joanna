@@ -37,4 +37,4 @@ My score in this test was ## 8/14.
 
 ### 3. Do czego służy plik gitignore?
 
-**Plik .gitignore** - służy do określenie plików, które mają być ignorowane przez repozytorium git. Umieszczamy w nim np. hasła czy poufne dane używane w projekcie, abo nie wyciekły do GitHuba.
+**Plik .gitignore** - służy do określenia plików, które mają być ignorowane przez repozytorium git. Umieszczamy w nim np. hasła czy poufne dane używane w projekcie, aby nie wyciekły do GitHuba.
