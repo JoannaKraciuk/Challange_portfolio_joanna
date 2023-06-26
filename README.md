@@ -1,6 +1,6 @@
 # :dart:Challenge portfolio Joanna Kraciuk🎯:
 ##  :pushpin:Task 1: Software Configuration
-###  :large_blue_diamond:Subtask 1: Why did I choose to participate in the  challenge portfolio?
+###  :white_check_mark:Subtask 1: Why did I choose to participate in the  challenge portfolio?
 
 My name is Joanna. I decided to take part in the challenge because I have been developing my skills in **manual** and **automated testing** for over a year. I want to systematise my knowledge and skills to take the next step towards becoming a good tester. 
 I believe that :computer:**practice is definitely more valuable than theory alone**, which is why I chose this project to get started! 
