@@ -16,7 +16,7 @@ Fixing a problem that displays on the console.
 
 In this subtask, I was made my first commit to the project repository using GitHub Desktop:rocket:.
 
-###  :white_check_mark:Subtask 4: Get ISTQB Test "PURPLE".
+###  :white_check_mark:Subtask 4*: Get ISTQB Test "PURPLE".
 
 
 :arrow_right:[Link to test](http://getistqb.com/quiz-purpurowy/)
