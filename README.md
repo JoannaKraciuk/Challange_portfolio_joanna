@@ -8,7 +8,11 @@ The :point_right:**individual feedback**:cloud will give me valuable tips on how
 
 :tada:**Let the adventure begin!!!**:tada:
 
-### :white_check_mark:Subtask 2: Adding code to repository.
+### :white_check_mark:Subtask 2:
+
+Fixing a problem that displays on the console.
+
+### :white_check_mark:Subtask 3: Adding code to repository.
 
 In this subtask, I was made my first commit to the project repository using GitHub Desktop:rocket:.
 
