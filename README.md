@@ -75,5 +75,9 @@ My score in this test was **8/14.**
 //div[@tabindex='0']
 
 ### ➡ Sign in button selectors:
+//span
 
+//button/span
+
+//div/button/span
 
