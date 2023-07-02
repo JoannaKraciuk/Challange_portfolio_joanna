@@ -70,6 +70,6 @@ My score in this test was **8/14.**
 ### ➡ Language selectors:
 //div[@role='button']
 
-
+//div[@class='MuiSelect-root MuiSelect-select MuiSelect-selectMenu MuiInputBase-input MuiInput-input']
 
 
