@@ -56,4 +56,4 @@ My score in this test was **8/14.**
 ### ➡ Password selectors:
 //input[@type='password']
 
-
+//*[contains(@name, 'password')]
