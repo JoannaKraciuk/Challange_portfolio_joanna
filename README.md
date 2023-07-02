@@ -48,4 +48,5 @@ My score in this test was **8/14.**
 ##  :pushpin:Task 2: Selectors
 ### Login selectors:
 //input[@type='text']
+
 //*[contains(@class, 'MuiInputBase-input MuiInput-input')]
