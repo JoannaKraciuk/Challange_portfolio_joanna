@@ -57,3 +57,5 @@ My score in this test was **8/14.**
 //input[@type='password']
 
 //*[contains(@name, 'password')]
+
+//*[@id='password']
