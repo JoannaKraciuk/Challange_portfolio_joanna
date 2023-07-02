@@ -59,3 +59,7 @@ My score in this test was **8/14.**
 //*[contains(@name, 'password')]
 
 //*[@id='password']
+
+### ➡ Remind Password selectors:
+//a[@class='MuiTypography-root MuiLink-root MuiLink-underlineHover jss15 MuiTypography-colorPrimary']
+
