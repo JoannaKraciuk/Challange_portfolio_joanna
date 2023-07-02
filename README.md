@@ -46,14 +46,14 @@ My score in this test was **8/14.**
 
 **Plik .gitignore** - służy do określenia plików, które mają być ignorowane przez repozytorium git. Umieszczamy w nim np. hasła czy poufne dane używane w projekcie, aby nie wyciekły do GitHuba.
 ##  :pushpin:Task 2: Selectors on page https://scouts-test.futbolkolektyw.pl/en/login?redirected=true
-### ➡ Login selectors:
+### ➡ Login input selectors:
 //input[@type='text']
 
 //*[contains(@class, 'MuiInputBase-input MuiInput-input')]
 
 //*[@id='login']
 
-### ➡ Password selectors:
+### ➡ Password input selectors:
 //input[@type='password']
 
 //*[contains(@name, 'password')]
@@ -71,5 +71,9 @@ My score in this test was **8/14.**
 //div[@role='button']
 
 //div[@class='MuiSelect-root MuiSelect-select MuiSelect-selectMenu MuiInputBase-input MuiInput-input']
+
+//div[@tabindex='0']
+
+### ➡ Sign in button selectors:
 
 
