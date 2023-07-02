@@ -54,3 +54,6 @@ My score in this test was **8/14.**
 //*[@id='login']
 
 ### ➡ Password selectors:
+//input[@type='password']
+
+
