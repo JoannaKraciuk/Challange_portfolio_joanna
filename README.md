@@ -91,3 +91,13 @@ In this subtask, I was creating a new Python 'Dashboard' file and finding xpath 
 ### :white_check_mark:Subtask 5: Add new file 'Add a match form' to the project
 
 In this subtask I was creating new Pythona file 'Add a match form" and finding selectors on this page, to add them to the project.
+
+### :white_check_mark:Subtask 6*: Merging branches
+
+In this task, I merged the selcetors branch with the main branch.
+
+## :question:Recruitment questions:question:
+
+### :ballot_box_with_check:1. Co to jest selector?
+
+
