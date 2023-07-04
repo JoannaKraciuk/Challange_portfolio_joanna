@@ -86,7 +86,7 @@ My score in this test was **8/14.**
 ### :white_check_mark:Subtask 3: Add selectors to the project
 ### :white_check_mark:Subtask 4: Add new file 'Dashboard' to the project
 
-In this subtask I was creating new Pythona file 'Dashboard" and finding selectors on this page, to add them to the project.
+In this subtask, I was creating a new Python 'Dashboard' file and finding xpath selectors on the test page to add to the project.
 
 ### :white_check_mark:Subtask 5: Add new file 'Add a match form' to the project
 
