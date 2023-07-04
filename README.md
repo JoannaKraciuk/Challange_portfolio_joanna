@@ -98,7 +98,7 @@ In this task, I merged the selcetors branch with the main branch.
 
 ## :question:Recruitment questions:question:
 
-### :ballot_box_with_check:1. Co to jest selector?
+### :ballot_box_with_check:1. Co to jest selektor?
 
 Selektor jest potrzebny do zlokalizowania na stronie elementów, które potrzebujemy wprowadzić do naszego kodu, aby wykonujący kod mógł np. kliknąć w dany element lub wykonać inną interakcję.
 
@@ -107,4 +107,11 @@ Selektor jest potrzebny do zlokalizowania na stronie elementów, które potrzebu
 Programowanie obiektowe to sposób projektowania programów przy użyciu klas i obiektów.  Programowanie obiektowe organizuje kod programistyczny wokół obiektów, które istnieją w klasach.
 Klasa jest matrycą, szablonem, który definiuje postać obiektu. Określa ona zarówno dane obiektu (składowe) jak i również kod, który operuje na tych danych (metody).
 
+### :ballot_box_with_check:3. Co to jest dziedziczenie w programowaniu obiektowym?
+
+Dziedziczenie w programowaniu to mechanizm, który sprawia, że jeden obiekt nabywa/dziedziczy właściwości innego obiektu. Dziedziczenie obsługuje również klasyfikację hierarchiczną. Umożliwia nam tworzenie nowych klasa , które są zbudowane na istniejących klasach, tj. gdy dziedziczysz z istniejącej klasy, możemy ponownie wykorzystać metody i pola klasy nadrzędnej. Dziedziczenie reprezentuje relację rodzic-dziecko.
+
+### :ballot_box_with_check:4. Co to jest konflikt? I jak go możemy rozwiązać?
+
+Konflikty wynikają z tego, ze ktoś dodał swoją linijkę kodu dokładnie w tym samym miejscu, gdzie my. Rozwiązywanie konfliktów często polega na tym, żeby umiejscowić swoje linijki kodu w odpowiednich miejscach w dokumencie z kodem. 
 
