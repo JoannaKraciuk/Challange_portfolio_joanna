@@ -94,7 +94,7 @@ In this subtask I was creating new Pythona file 'Add a match form" and finding s
 
 ### :white_check_mark:Subtask 6*: Merging branches
 
-In this task, I merged the selcetors branch with the main branch.
+In this task, I merged the selectors branch with the main branch.
 
 ## :question:Recruitment questions:question:
 
