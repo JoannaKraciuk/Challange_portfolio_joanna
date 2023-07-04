@@ -84,3 +84,4 @@ My score in this test was **8/14.**
 //div/button/span
 
 ### :white_check_mark:Subtask 3: Add selectors to the project
+### :white_check_mark:Subtask 4: Add new file to the project
