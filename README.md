@@ -102,4 +102,9 @@ In this task, I merged the selcetors branch with the main branch.
 
 Selektor jest potrzebny do zlokalizowania na stronie elementów, które potrzebujemy wprowadzić do naszego kodu, aby wykonujący kod mógł np. kliknąć w dany element lub wykonać inną interakcję.
 
+### :ballot_box_with_check:2. Co to jest klasa?
+
+Programowanie obiektowe to sposób projektowania programów przy użyciu klas i obiektów.  Programowanie obiektowe organizuje kod programistyczny wokół obiektów, które istnieją w klasach.
+Klasa jest matrycą, szablonem, który definiuje postać obiektu. Określa ona zarówno dane obiektu (składowe) jak i również kod, który operuje na tych danych (metody).
+
 
