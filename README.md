@@ -100,4 +100,6 @@ In this task, I merged the selcetors branch with the main branch.
 
 ### :ballot_box_with_check:1. Co to jest selector?
 
+Selektor jest potrzebny do zlokalizowania na stronie elementów, które potrzebujemy wprowadzić do naszego kodu, aby wykonujący kod mógł np. kliknąć w dany element lub wykonać inną interakcję.
+
 
