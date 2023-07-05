@@ -17,7 +17,7 @@ class AddPlayerForm(BasePage):
     second_position_input_xpath = "//*[@name='secondPosition']"
     district_select_xpath = "//*[@id='mui-component-select-district']"
     achievements_input_xpath = "//*[@name='achievements']"
-    add_language_button_xpath = "//span[@class='MuiButton-label']"
+    add_language_button_xpath = "//main/div[2]/form/div[2]/div[1]/div[15]/button/span[1]"
     laczy_nas_pilka_input_xpath = "//*[@name='webLaczy']"
     minut_90_input_xpath = "//*[@name='web90']"
     facebook_input_xpath = "//*[@name='webFB']"
