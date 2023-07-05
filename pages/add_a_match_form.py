@@ -8,7 +8,7 @@ class AddAMatchForm(BasePage):
     my_team_score_inpuyt_xpath = "//*[@name='myTeamScore']"
     enemy_team_score_input_xpath = "//*[@name='enemyTeamScore']"
     date_input_xpath = "//*[@name='date']"
-    match_at_home_xpath = "//*[@name='matchAtHome']"
+    match_at_home_xpath = "//div[@role='radiogroup']/label[1]/span/span/input"
     match_out_home_xpath = "//div[@role='radiogroup']/label[2]/span[1]/span[1]/input"
     t_shirt_color_input_xpath = "//*[@name='tshirt']"
     league_input_xpath = "//*[@name='league']"
@@ -19,5 +19,4 @@ class AddAMatchForm(BasePage):
     rating_input_xpath = "//*[@name='rating']"
     submit_button_xpath = "//*[@type='submit']/span[1]"
     clear_button_xpath = "//*[contains(@class, 'MuiCardActions')]/button[2]/span[1]"
-
     pass
