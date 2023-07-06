@@ -51,7 +51,7 @@ My score in this test was **8/14.**
 ### ➡ Login input selectors:
 //input[@type='text']
 
-//*[contains(@class, 'MuiInputBase-input MuiInput-input')]
+//div[@id='login-label']/form/div/div[1]/div[1]/label
 
 //*[@id='login']
 
