@@ -77,11 +77,11 @@ My score in this test was **8/14.**
 //div[@tabindex='0']
 
 ### ➡ Sign in button selectors:
-//span
+//span[1]
 
-//button/span
+//button/span[1]
 
-//div/button/span
+//div/button/span[1]
 
 ### :white_check_mark:Subtask 3: Add selectors to the project
 ### :white_check_mark:Subtask 4: Add new file 'Dashboard' to the project
