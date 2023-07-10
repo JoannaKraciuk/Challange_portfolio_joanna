@@ -1,4 +1,7 @@
 from pages.base_page import BasePage
+import time
+
+from pages.login_page import LoginPage
 
 
 class Dashboard(BasePage):
@@ -14,6 +17,24 @@ class Dashboard(BasePage):
     last_crate_game_xpath = "//div[@class='MuiCardContent-root']/a[3]/button/span[1]"
     last_update_game_xpath = "//div[@class='MuiCardContent-root']/a[4]/button/span[1]"
     last_update_report_xpath = "//div[@class='MuiCardContent-root']/a[5]/button/span[1]"
+    expected_title = 'Scouts panel'
+    dashboard_url = 'https://scouts-test.futbolkolektyw.pl/en'
+    add_player_url = 'https://scouts-test.futbolkolektyw.pl/en/players/add'
+    add_page_expected_title = 'Add player'
 
-    pass
+
+    def title_of_page(self):
+        time.sleep(5)
+        assert self.get_page_title(self.dashboard_url) == self.expected_title
+
+    def login_to_dashboard(self, email, password):
+        user_login = LoginPage(self.driver)
+        user_login.type_in_email(self, email)
+        user_login.enter_password(self, password)
+        user_login.sign_in()
+
+    def add_player_page(self):
+        self.click_on_the_element(self.add_player_button_xpath)
+        assert self.get_page_title(self.add_player_url) == self.add_page_expected_title
+
 
