@@ -25,4 +25,14 @@ class AddPlayerForm(BasePage):
     submit_button_xpath = "//*[@type='submit']/span[1]"
     clear_button_xpath = "//*[@id='__next']/div[1]/main/div[2]/form/div[3]/button[2]/span[1]"
 
-    pass
+    def add_player_data(self, email, name, surname, number, weight, height, age ):
+        self.field_send_keys(self.email_input_xpath, email)
+        self.field_send_keys(self.name_input_xpath, name)
+        self.field_send_keys(self.surname_input_xpath, surname)
+        self.field_send_keys(self.phone_input_xpath, number)
+        self.field_send_keys(self.weight_input_xpath, weight)
+        self.field_send_keys(self.height_input_xpath, height)
+        self.field_send_keys(self.age_input_xpath, age)
+
+
+
