@@ -2,6 +2,8 @@ import os
 import time
 import unittest
 from selenium import webdriver
+
+from pages.base_page import BasePage
 from pages.dashboard_page import Dashboard
 from pages.login_page import LoginPage
 from utils.settings import DRIVER_PATH, IMPLICITLY_WAIT
@@ -18,8 +20,11 @@ class TestLoginPage(unittest.TestCase):
         self.driver.implicitly_wait(IMPLICITLY_WAIT)
 
     def test_login_page(self):
+
         user_login = LoginPage(self.driver)
         user_login.title_of_page()
+        element_text = BasePage(self.driver)
+        element_text.assert_element_text(self.driver, '//div/h5', 'Scout Panel')
         user_login.type_in_email('user10@getnada.com')
         user_login.enter_password('Test-1234')
         user_login.sign_in()
