@@ -116,11 +116,27 @@ Dziedziczenie w programowaniu to mechanizm, który sprawia, że jeden obiekt nab
 Konflikty wynikają z tego, ze ktoś dodał swoją linijkę kodu dokładnie w tym samym miejscu, gdzie my. Rozwiązywanie konfliktów często polega na tym, żeby umiejscowić swoje linijki kodu w odpowiednich miejscach w dokumencie z kodem. 
 
 ##  :pushpin:Task 3: First automatic test and asserts
-###  :white_check_mark:Subtask 1: Supplementing the login page with new methods.
+###  :white_check_mark:Subtask 1: Supplementing the login page with new methods
 
 In this subtask, I completed the login page with new methods and entered a password field with text and clicked submit.
 
-###  :white_check_mark:Subtask 2: New Test Case.
+###  :white_check_mark:Subtask 2: New Test Case
+
+I created a new test case login_to_the_system, a new class and methods. The purpose of this case was to open the dashboard after completing the login page.
+
+###  :white_check_mark:Subtask 3: Assert
+
+After using the assertion, check that the page title is the expected title.
+
+###  :white_check_mark:Subtask 4: Repetition of knowledge
+
+I was created a new page add_player, ne Test Case and new test using assertion.
+
+###  :white_check_mark:Subtask 5*: Optional task
+
+Using the method to BasePage and checking the title on the login page is equal to the expected one.
+
+
 
 
 
