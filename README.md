@@ -136,6 +136,18 @@ I was created a new page add_player, ne Test Case and new test using assertion.
 
 Using the method to BasePage and checking the title on the login page is equal to the expected one.
 
+##  :pushpin:Task 4: Refactor, debugger and test cases
+###  :white_check_mark:Subtask 1: Writing test cases
+
+###  :white_check_mark:Subtask 2: Writing code based on test cases
+
+###  :white_check_mark:Subtask 3: Adding recordings of running tests to Google Drive
+
+###  :white_check_mark:Subtask 4*: Screenshot method and test report - for volunteers and groups
+
+###  :white_check_mark:Subtask 5*: For volunteers → Construction of if else
+
+
 
 
 
