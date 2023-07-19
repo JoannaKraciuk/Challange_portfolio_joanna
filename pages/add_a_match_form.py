@@ -5,7 +5,7 @@ class AddAMatchForm(BasePage):
 
     add_my_team_input_xpath = "//*[@name='myTeam']"
     enemy_team_input_xpath = "//*[@name='enemyTeam']"
-    my_team_score_inpuyt_xpath = "//*[@name='myTeamScore']"
+    my_team_score_input_xpath = "//*[@name='myTeamScore']"
     enemy_team_score_input_xpath = "//*[@name='enemyTeamScore']"
     date_input_xpath = "//*[@name='date']"
     match_at_home_xpath = "//div[@role='radiogroup']/label[1]/span/span/input"
