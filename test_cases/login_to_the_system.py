@@ -1,8 +1,8 @@
 import os
 import time
 import unittest
+import allure
 from selenium import webdriver
-
 from pages.base_page import BasePage
 from pages.dashboard_page import Dashboard
 from pages.login_page import LoginPage
@@ -19,6 +19,8 @@ class TestLoginPage(unittest.TestCase):
         self.driver.fullscreen_window()
         self.driver.implicitly_wait(IMPLICITLY_WAIT)
 
+    @allure.title('Log in to dashboard page')
+    @allure.description('This test execute login to the dashboard page with valid data')
     def test_login_page(self):
 
         user_login = LoginPage(self.driver)
@@ -30,7 +32,7 @@ class TestLoginPage(unittest.TestCase):
         user_login.sign_in()
         dashboard_page = Dashboard(self.driver)
         dashboard_page.title_of_page()
-        time.sleep(5)
+
     @classmethod
     def tearDown(self):
         self.driver.quit()
