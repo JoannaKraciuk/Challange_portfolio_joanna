@@ -2,6 +2,7 @@ import os
 import unittest
 from selenium import webdriver
 from utils.settings import DRIVER_PATH, IMPLICITLY_WAIT
+import pytest
 
 
 class Test(unittest.TestCase):
