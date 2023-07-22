@@ -2,6 +2,7 @@ import os
 import time
 import unittest
 from selenium import webdriver
+import pytest
 
 from pages.base_page import BasePage
 from pages.dashboard_page import Dashboard
@@ -9,7 +10,7 @@ from pages.login_page import LoginPage
 from utils.settings import DRIVER_PATH, IMPLICITLY_WAIT
 
 
-class TestLoginPage(unittest.TestCase):
+class TestChangeLanguage(unittest.TestCase):
 
     @classmethod
     def setUp(self):
