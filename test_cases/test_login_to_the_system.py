@@ -1,6 +1,7 @@
 import os
 import time
 import unittest
+import pytest
 import allure
 from selenium import webdriver
 from pages.base_page import BasePage
