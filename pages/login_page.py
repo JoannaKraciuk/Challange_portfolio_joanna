@@ -1,9 +1,7 @@
 import time
 
 import allure
-from allure_commons.model2 import Attachment
 from allure_commons.types import AttachmentType
-
 from pages.base_page import BasePage
 
 
