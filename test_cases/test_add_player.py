@@ -2,6 +2,7 @@ import os
 import time
 import unittest
 from selenium import webdriver
+import pytest
 
 from pages.add_player_form import AddPlayerForm
 from pages.base_page import BasePage
