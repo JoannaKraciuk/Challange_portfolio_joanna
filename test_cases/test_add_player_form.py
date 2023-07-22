@@ -4,13 +4,14 @@ import pytest
 import time
 import unittest
 from selenium import webdriver
+
 from pages.add_player_form import AddPlayerForm
 from pages.dashboard_page import Dashboard
 from pages.login_page import LoginPage
 from utils.settings import DRIVER_PATH, IMPLICITLY_WAIT
 
-@pytest.mark.webtest
-class TestAddPlayerPage(unittest.TestCase):
+
+class TestFillInaForm(unittest.TestCase):
 
     @classmethod
     def setUp(self):
@@ -20,7 +21,7 @@ class TestAddPlayerPage(unittest.TestCase):
         self.driver.fullscreen_window()
         self.driver.implicitly_wait(IMPLICITLY_WAIT)
 
-    @allure.title("Test add new layer form.")
+    @allure.title("Test add new player form.")
     @allure.description("This test is to check filling the ne player form")
     def test_login_page(self):
         user_login = LoginPage(self.driver)
