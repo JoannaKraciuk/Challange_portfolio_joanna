@@ -157,7 +157,7 @@ Using the method to BasePage and checking the title on the login page is equal t
 ###  :white_check_mark:Subtask 3: Get to know Robot Framework.
 
 ###  :white_check_mark:Subtask 4: Generate report from tests.
-➡️ Test report: C:\Users\valcr\OneDrive\Dokumenty\GitHub\panelscout_robotframework\report.html
+➡️[Link to the test report](https://docs.google.com/document/d/1kGgoTGo_IgNTbDLlw6crLbhK85ykZufuoY18tsMJkfc/edit?usp=sharing)
 
 
 
