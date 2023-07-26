@@ -4,7 +4,8 @@ from selenium.webdriver.common.by import By
 from selenium.webdriver.remote.webdriver import WebDriver
 from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.support.wait import WebDriverWait
-from utils.settings import DEFAULT_LOCATOR_TYPE
+
+from util.settings import DEFAULT_LOCATOR_TYPE
 
 
 class BasePage():
