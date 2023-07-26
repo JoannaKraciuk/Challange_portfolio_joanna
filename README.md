@@ -155,6 +155,7 @@ Using the method to BasePage and checking the title on the login page is equal t
 ###  :white_check_mark:Subtask 2: How to set up Suite Test?
 
 ###  :white_check_mark:Subtask 3: Get to know Robot Framework.
+➡️[Link to Robot Framework repository](https://github.com/JoannaKraciuk/panelscout_robotframework.git)
 
 ###  :white_check_mark:Subtask 4: Generate report from tests.
 ➡️[Link to the test report](https://docs.google.com/document/d/1kGgoTGo_IgNTbDLlw6crLbhK85ykZufuoY18tsMJkfc/edit?usp=sharing)
