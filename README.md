@@ -139,13 +139,23 @@ Using the method to BasePage and checking the title on the login page is equal t
 ##  :pushpin:Task 4: Refactor, debugger and test cases
 ###  :white_check_mark:Subtask 1: Writing test cases
 
+    [Link to Test Cases](https://docs.google.com/spreadsheets/d/18LNV4K60lHPjdTnxc1YdKW5gzbNm79sAi122oPcoBng/edit?usp=sharing)
+
 ###  :white_check_mark:Subtask 2: Writing code based on test cases
 
 ###  :white_check_mark:Subtask 3: Adding recordings of running tests to Google Drive
 
 ###  :white_check_mark:Subtask 4*: Screenshot method and test report - for volunteers and groups
 
-###  :white_check_mark:Subtask 5*: For volunteers → Construction of if else
+##  :pushpin:Task 5: Robot Framework
+###  :white_check_mark:Subtask 1: What is Smoke Test?
+
+###  :white_check_mark:Subtask 2: How to set up Suite Test?
+
+###  :white_check_mark:Subtask 3: Know new framework.
+
+###  :white_check_mark:Subtask 4*: Generate report from tests.
+
 
 
 
