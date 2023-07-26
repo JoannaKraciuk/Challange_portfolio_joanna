@@ -8,7 +8,7 @@ from pages.add_player_form import AddPlayerForm
 from pages.base_page import BasePage
 from pages.dashboard_page import Dashboard
 from pages.login_page import LoginPage
-from utils.settings import DRIVER_PATH, IMPLICITLY_WAIT
+from util.settings import DRIVER_PATH, IMPLICITLY_WAIT
 
 
 class TestAddPlayerPage(unittest.TestCase):

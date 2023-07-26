@@ -8,7 +8,7 @@ from selenium import webdriver
 from pages.add_player_form import AddPlayerForm
 from pages.dashboard_page import Dashboard
 from pages.login_page import LoginPage
-from utils.settings import DRIVER_PATH, IMPLICITLY_WAIT
+from util.settings import DRIVER_PATH, IMPLICITLY_WAIT
 
 
 class TestFillInaForm(unittest.TestCase):

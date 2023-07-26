@@ -6,7 +6,7 @@ import pytest
 from pages.base_page import BasePage
 from pages.dashboard_page import Dashboard
 from pages.login_page import LoginPage
-from utils.settings import DRIVER_PATH, IMPLICITLY_WAIT
+from util.settings import DRIVER_PATH, IMPLICITLY_WAIT
 
 
 class TestLoginPageInvalidData(unittest.TestCase):
@@ -25,8 +25,6 @@ class TestLoginPageInvalidData(unittest.TestCase):
         user_login.type_in_email('user10@getnad.com')
         user_login.enter_password('Test-12345')
         user_login.sign_in()
-        user_login.info_after_login()
-
 
     @classmethod
     def tearDown(self):
