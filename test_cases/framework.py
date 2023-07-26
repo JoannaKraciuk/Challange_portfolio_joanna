@@ -1,7 +1,7 @@
 import os
 import unittest
 from selenium import webdriver
-from utils.settings import DRIVER_PATH, IMPLICITLY_WAIT
+from util.settings import DRIVER_PATH, IMPLICITLY_WAIT
 import pytest
 
 
