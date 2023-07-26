@@ -145,6 +145,8 @@ Using the method to BasePage and checking the title on the login page is equal t
 
 ###  :white_check_mark:Subtask 3: Adding recordings of running tests to Google Drive
 
+➡️[Link to the records](https://drive.google.com/drive/folders/1vNeL6ue4oED9a4jZCi2mp4iYasalMcy7?usp=sharing)
+
 ###  :white_check_mark:Subtask 4*: Screenshot method and test report - for volunteers and groups
 
 ##  :pushpin:Task 5: Robot Framework
