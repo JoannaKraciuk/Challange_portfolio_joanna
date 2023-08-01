@@ -160,6 +160,18 @@ Using the method to BasePage and checking the title on the login page is equal t
 ###  :white_check_mark:Subtask 4: Generate report from tests.
 ➡️[Link to the test report](https://docs.google.com/document/d/1kGgoTGo_IgNTbDLlw6crLbhK85ykZufuoY18tsMJkfc/edit?usp=sharing)
 
+##  :pushpin:Task 6: Bug report and Test report
+###  :white_check_mark:Subtask 1: Change the enviroment.
+
+###  :white_check_mark:Subtask 2: Bug report
+➡️[Link to Bug report](https://drive.google.com/drive/folders/1vRNHx8KxOrKILaZoOn-JuQj2WtAMAQhY?usp=drive_link)
+
+###  :white_check_mark:Subtask 3: Get to know Robot Framework.
+➡️[Link to Robot Framework repository](https://github.com/JoannaKraciuk/panelscout_robotframework.git)
+
+###  :white_check_mark:Subtask 4: Generate report from tests.
+➡️[Link to the test report](https://docs.google.com/document/d/1kGgoTGo_IgNTbDLlw6crLbhK85ykZufuoY18tsMJkfc/edit?usp=sharing)
+
 
 
 
