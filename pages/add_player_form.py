@@ -94,8 +94,8 @@ class AddPlayerForm(BasePage):
                       attachment_type=AttachmentType.PNG)
 
     @allure.step("Setting achievement to '(1)'")
-    def add_player_achievement(self, achivement):
-        self.field_send_keys(self.achievements_input_xpath, achivement)
+    def add_player_achievement(self, achievement):
+        self.field_send_keys(self.achievements_input_xpath, achievement)
         allure.attach(self.driver.get_screenshot_as_png(), name="Set achievement", attachment_type=AttachmentType.PNG)
 
     @allure.step("Setting language to '(1)'")
