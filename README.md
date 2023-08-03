@@ -47,7 +47,7 @@ My score in this test was **8/14.**
 **Plik .gitignore** - służy do określenia plików, które mają być ignorowane przez repozytorium git. Umieszczamy w nim np. hasła czy poufne dane używane w projekcie, aby nie wyciekły do GitHuba.
 ##  :pushpin:Task 2: 
 ### :white_check_mark:Subtask 1*: Create a new branch 
-### :white_check_mark:Subtask 2: Selectors on page https://scouts-test.futbolkolektyw.pl/en/login?redirected=true
+### :white_check_mark:Subtask 2: Selectors on page https://scouts-test.futbolkolektyw.pl
 ### ➡ Login input selectors:
 //input[@type='text']
 
