@@ -148,6 +148,7 @@ Using the method to BasePage and checking the title on the login page is equal t
 ➡️[Link to test recordings](https://drive.google.com/drive/folders/1vNeL6ue4oED9a4jZCi2mp4iYasalMcy7?usp=sharing)
 
 ###  :white_check_mark:Subtask 4*: Screenshot method and test report - for volunteers and groups
+➡️[Link to the report](http://192.168.1.44:51374/index.html#)
 
 ##  :pushpin:Task 5: Robot Framework
 ###  :white_check_mark:Subtask 1: What is Smoke Test?
